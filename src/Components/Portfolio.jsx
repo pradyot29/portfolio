@@ -21,7 +21,7 @@ import React from "react";
  */
 import image from "../images/design-desk.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "portfolio image 2";
 
 /**
  * Project list
@@ -31,22 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Wix Portfolio",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Portfolio made using Wix Studio",
+    url: "https://sonipradyot.wixsite.com/portfolio-showcase-1",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Unity Relief",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A web app for providing relief in case of calamity",
+    url: "https://pradyot29.github.io/Unity_relief/",
   },
   {
-    title: "My Resume Site",
+    title: "Virtual Lab Simulator",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created Virtual Lab simulator for studnets to do COA and DLD projects.",
+    url: "https://pradyot29.github.io/COA_virtualLab/",
   },
   {
     title: "GitHub Codespaces and github.dev",
